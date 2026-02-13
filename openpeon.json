@@ -146,8 +146,8 @@
         },
         {
           "file": "sounds/snake_what.mp3",
-          "label": "What?",
-          "sha256": "c736724d27248d744a06cadfa95a02997f935f9ffd336ff547c51aa0c59df606"
+          "label": "What do you mean?",
+          "sha256": "6f11527a68b63ad20857136f164f62452e015974db060f809559779804f68ae4"
         }
       ]
     },
