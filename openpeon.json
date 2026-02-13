@@ -1,0 +1,208 @@
+{
+  "cesp_version": "1.0",
+  "name": "solid_snake",
+  "display_name": "Solid Snake",
+  "version": "1.0.0",
+  "description": "Tactical espionage audio - featuring the legendary Solid Snake from the Metal Gear Solid series",
+  "author": {
+    "name": "will",
+    "github": ""
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/kept_you_waiting_mgs2.mp3",
+          "label": "Kept you waiting, huh?",
+          "sha256": "8f252b6401a60d9679bd7f90005f590f286c47a3b8397cdc4ed8a2bf4ec7484c"
+        },
+        {
+          "file": "sounds/snake_thisissnake.mp3",
+          "label": "This is Snake",
+          "sha256": "05ac36cb15fb92051c435746fa9f0cf0b8eb3cdd891f3298daece2b1539f1d99"
+        },
+        {
+          "file": "sounds/snake_itssnake.mp3",
+          "label": "It's Snake",
+          "sha256": "ae6b47684afd88a9c23c6b92cfbddafa614fd0613dc36ddab489afbd9789e356"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/snake_roger_that.mp3",
+          "label": "Roger that",
+          "sha256": "289020f79fd09ac0e83290de54043bef591405264cc5e3bf20cd345c81f3934e"
+        },
+        {
+          "file": "sounds/snake_sounds_like_a_plan.mp3",
+          "label": "Sounds like a plan",
+          "sha256": "f707a8844ea5e821f708267a6e3e702056baf3f818c9b72858daef24329cbd82"
+        },
+        {
+          "file": "sounds/snake_hmm.mp3",
+          "label": "Hmm",
+          "sha256": "6b2af2cc56973ff0ad5a7d6e417dd0f2a54ec5b8720dbd5d48c33acdb9982112"
+        },
+        {
+          "file": "sounds/snake_gotit.mp3",
+          "label": "Got it",
+          "sha256": "d019ef1ae555e2bacbf7429b21d5046f0a726d6d5baa3418d468569e19594b9a"
+        },
+        {
+          "file": "sounds/snake_yes.mp3",
+          "label": "Yes",
+          "sha256": "748c4784451890636ffd130a00d89c4c17c79e03b0a03cc2495123e80fbd5856"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/snake_negfinished.mp3",
+          "label": "Negative, finished",
+          "sha256": "8350fcdbf50d2d7c5ef1b63609ce453cd4900442e57e410118869a2763ecd6a3"
+        },
+        {
+          "file": "sounds/snake_friendly_fire_trimmed.mp3",
+          "label": "Watch your friendly fire",
+          "sha256": "ba396e445ef2d950b443280110d075997920941136c933518f0ebb9fa7741e2d"
+        },
+        {
+          "file": "sounds/snake_ok.mp3",
+          "label": "OK",
+          "sha256": "4eada7b92f83b6a91abac4419e4c50139714e71cf56a27a21951a0b258f94007"
+        },
+        {
+          "file": "sounds/snake_thatsok.mp3",
+          "label": "That's OK",
+          "sha256": "2481194aeb6cd9b1edb15eb72e851894e327d624a38634f311b6d47f8e3cc5ef"
+        },
+        {
+          "file": "sounds/snake_benice.mp3",
+          "label": "Be nice",
+          "sha256": "2862741aa5f338338bf08db46ce143c35f21ba8f1263a08c901b049befcac5a1"
+        },
+        {
+          "file": "sounds/snake_great.mp3",
+          "label": "Great",
+          "sha256": "3bc7a004e107978de90f7a2f548456a5e020b7be81ad3d95adf5d47b8c3cf5b3"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/snake_scream.mp3",
+          "label": "Snake scream",
+          "sha256": "763a97f888c43ad12f0608f8c519872e57ef3a76b89bd770ea4d1bf049c339d2"
+        },
+        {
+          "file": "sounds/snake_what_the_hell.mp3",
+          "label": "What the hell?",
+          "sha256": "61f5150aebf09acbda8b737c71156ebf3bc57a79afa8b8d6c19e296981391f81"
+        },
+        {
+          "file": "sounds/snake_damn.mp3",
+          "label": "Damn",
+          "sha256": "5254731d1d80dc3613006c8cf1185350e6c4bcf83adb567118866309fae90603"
+        },
+        {
+          "file": "sounds/snake_wth.mp3",
+          "label": "What the hell",
+          "sha256": "bb36264cf9f76341a768dcf8d3d8b546f5709b110e02f3f69f955e9725839881"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/snake_job_to_do_trimmed.mp3",
+          "label": "We've got a job to do",
+          "sha256": "a38cd5a86d18a2e72a8a692996984406cae9c717ce33180758d7c4200d851b32"
+        },
+        {
+          "file": "sounds/snake_whereareu_clean.mp3",
+          "label": "Where are you?",
+          "sha256": "b7d45a536f5468ee8cf42b291c0fd42968ea15429124a456889daa732eb6a5fd"
+        },
+        {
+          "file": "sounds/snake_supposedtodo.mp3",
+          "label": "What am I supposed to do?",
+          "sha256": "46e3ff90dc018f55d2cd344308135b5d97541c9238543a16dbdb25ab799e0db0"
+        },
+        {
+          "file": "sounds/snake_favor.mp3",
+          "label": "I need a favor",
+          "sha256": "57a97aaeb6684a2ee541fd4f0217cc8da10cec129167b24f4a3b98e7c5718828"
+        },
+        {
+          "file": "sounds/snake_needhelp_clean.mp3",
+          "label": "I need your help",
+          "sha256": "f9b7ea978f78f8b91bdfe5b5fd5226f304dfb74c7fe72f9d96137f0cd6f204b7"
+        },
+        {
+          "file": "sounds/snake_ulistening.mp3",
+          "label": "Are you listening?",
+          "sha256": "0b88cdaef78215b48b0889995df253426faecf013940bcffd46c6b70f242e7f6"
+        },
+        {
+          "file": "sounds/snake_what.mp3",
+          "label": "What?",
+          "sha256": "c736724d27248d744a06cadfa95a02997f935f9ffd336ff547c51aa0c59df606"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/snake_no.mp3",
+          "label": "No",
+          "sha256": "d6feddf707e6c637dab61941edb0e6beb998dff4e94f27f540c0e5415b5cc2e6"
+        },
+        {
+          "file": "sounds/snake_noway.mp3",
+          "label": "No way",
+          "sha256": "019aa8bb1a743c4d6ed0baeb9942b618168930c9fd6d2da8150a29bc6e6428b2"
+        },
+        {
+          "file": "sounds/snake_cantmove.mp3",
+          "label": "I can't move",
+          "sha256": "962d8624c33fa9e014be96b2096f4f22bc330a677a7b3fbdf6a0d0f118e8a000"
+        },
+        {
+          "file": "sounds/snake_outtatime.mp3",
+          "label": "Running out of time",
+          "sha256": "205e091b160eac359719e0795bee563043101b61de3b8c5d40fef2d7e18dbd0a"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/snake_gimmebreak.mp3",
+          "label": "Give me a break",
+          "sha256": "377dd8818f9e3cd9b7bf90bb3e47e3b2e4fc5750a2fcc90866551defd22968d2"
+        },
+        {
+          "file": "sounds/snake_changedcol.mp3",
+          "label": "You changed the colonel",
+          "sha256": "608b10064f6bfd0737519f1626d6551be5e2c1197ec176e2f6e772b4880ecad6"
+        },
+        {
+          "file": "sounds/snake_utoldme.mp3",
+          "label": "You told me",
+          "sha256": "e80ec43dd4def334b2c1ea282e230d8ea363b8bab2c11fe2e0650dfe3e2c3ec2"
+        },
+        {
+          "file": "sounds/snake_youllpay_clean.mp3",
+          "label": "You'll pay for that",
+          "sha256": "5276062c773c6a63fdd9e79c0312b258ae2973c12cb2a80b0bec491f78889b70"
+        }
+      ]
+    }
+  }
+}
