@@ -1,0 +1,51 @@
+{
+  "name": "solid_snake",
+  "display_name": "Solid Snake",
+  "version": "1.0.0",
+  "description": "Tactical espionage audio - featuring the legendary Solid Snake from the Metal Gear Solid series",
+  "author": {
+    "name": "will",
+    "github": "wsturgiss"
+  },
+  "trust_tier": "community",
+  "categories": [
+    "session.start",
+    "task.acknowledge",
+    "task.complete",
+    "task.error",
+    "input.required",
+    "resource.limit",
+    "user.spam"
+  ],
+  "language": "en",
+  "license": "CC-BY-NC-4.0",
+  "sound_count": 32,
+  "total_size_bytes": 1067760,
+  "source_repo": "wsturgiss/openpeon-solid-snake",
+  "source_ref": "v1.0.0",
+  "source_path": "",
+  "manifest_sha256": "252aaea9da0105be637776938a226d77096a56533d3a2b6fa07d5c6c9686ef7d",
+  "tags": [
+    "gaming",
+    "metal-gear-solid",
+    "stealth",
+    "military",
+    "tactical"
+  ],
+  "preview_sounds": [
+    {
+      "file": "sounds/kept_you_waiting_mgs2.mp3",
+      "label": "Kept you waiting, huh?"
+    },
+    {
+      "file": "sounds/snake_roger_that.mp3",
+      "label": "Roger that"
+    },
+    {
+      "file": "sounds/snake_what_the_hell.mp3",
+      "label": "What the hell?"
+    }
+  ],
+  "added": "2026-02-13",
+  "updated": "2026-02-13"
+}
