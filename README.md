@@ -44,12 +44,12 @@ peon packs use solid_snake
 | **Resource limit** | *"No"*, *"I can't move"*, *"Running out of time"* |
 | **User spam** | *"Give me a break"*, *"You'll pay for that"* |
 
-All 33 voice clips have been volume-normalized for consistent playback.
+All 32 voice clips have been volume-normalized for consistent playback.
 
 ## Pack Details
 
 - **CESP Version**: 1.0
-- **Total Sounds**: 33 MP3 files
+- **Total Sounds**: 32 MP3 files
 - **Language**: English
 - **License**: CC-BY-NC-4.0 (for personal/educational use)
 - **Audio Sources**: Various Metal Gear Solid games

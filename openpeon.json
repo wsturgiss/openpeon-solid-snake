@@ -82,11 +82,6 @@
           "sha256": "2481194aeb6cd9b1edb15eb72e851894e327d624a38634f311b6d47f8e3cc5ef"
         },
         {
-          "file": "sounds/snake_benice.mp3",
-          "label": "Be nice",
-          "sha256": "2862741aa5f338338bf08db46ce143c35f21ba8f1263a08c901b049befcac5a1"
-        },
-        {
           "file": "sounds/snake_great.mp3",
           "label": "Great",
           "sha256": "3bc7a004e107978de90f7a2f548456a5e020b7be81ad3d95adf5d47b8c3cf5b3"
